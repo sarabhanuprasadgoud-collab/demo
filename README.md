@@ -1,4 +1,2 @@
 # demo
-This is my first Repository
-
-Added a new line here
+This is my first Repository<br/>Added a new line here
